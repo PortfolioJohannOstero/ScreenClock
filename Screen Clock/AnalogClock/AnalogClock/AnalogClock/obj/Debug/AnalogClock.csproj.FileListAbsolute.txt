@@ -1,0 +1,7 @@
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\AnalogClock\AnalogClock\bin\Debug\AnalogClock.dll
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\AnalogClock\AnalogClock\obj\Debug\AnalogClock.AnalogClock.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\AnalogClock\AnalogClock\obj\Debug\AnalogClock.dll
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb

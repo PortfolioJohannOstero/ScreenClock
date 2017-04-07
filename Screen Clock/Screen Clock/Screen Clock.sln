@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen Clock", "Screen Clock\Screen Clock.csproj", "{89F276B6-E6A6-4F1A-9032-CC2177A96980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogClock", "..\AnalogClock\AnalogClock\AnalogClock\AnalogClock.csproj", "{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Screen Clock Setup", "Screen Clock Setup\Screen Clock Setup.isproj", "{9C190BFD-69D8-4F39-841F-F07AA3BD9219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.CD_ROM|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.CD_ROM|Any CPU.Build.0 = Debug|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.SingleImage|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F276B6-E6A6-4F1A-9032-CC2177A96980}.SingleImage|Any CPU.Build.0 = Debug|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DEDF3D-A2A7-4E12-A9D2-97BEC601216D}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.Debug|Any CPU.ActiveCfg = DVD-5
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.Debug|Any CPU.Build.0 = DVD-5
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.DVD-5|Any CPU.Build.0 = DVD-5
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.Release|Any CPU.ActiveCfg = SingleImage
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.Release|Any CPU.Build.0 = SingleImage
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{9C190BFD-69D8-4F39-841F-F07AA3BD9219}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

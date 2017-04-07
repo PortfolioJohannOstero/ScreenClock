@@ -1,0 +1,16 @@
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Debug\Screen Clock.exe.config
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Debug\Screen Clock.exe
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Debug\Screen Clock.pdb
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen Clock.csprojResolveAssemblyReference.cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen_Clock.Forms.AdvancedForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen_Clock.Forms.ClockForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen_Clock.Forms.mainForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen_Clock.Properties.Resources.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen Clock.csproj.GenerateResource.Cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen Clock.exe
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen Clock.pdb
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Debug\AnalogClock.dll
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Debug\AnalogClock.pdb
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen_Clock.Forms.ClockForm_overlay.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen_Clock.Forms.popupForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Debug\Screen_Clock.Forms.PresetSettingsForm.resources

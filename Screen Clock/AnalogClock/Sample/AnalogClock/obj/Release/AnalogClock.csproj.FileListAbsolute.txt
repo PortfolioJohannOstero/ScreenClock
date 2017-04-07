@@ -1,0 +1,6 @@
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\Sample\AnalogClock\bin\Release\AnalogClock.xml
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\Sample\AnalogClock\bin\Release\AnalogClock.dll
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\Sample\AnalogClock\obj\Release\AnalogClock.csprojResolveAssemblyReference.cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\Sample\AnalogClock\obj\Release\AnalogClock.AnalogClock.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\Sample\AnalogClock\obj\Release\AnalogClock.csproj.GenerateResource.Cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\AnalogClock\Sample\AnalogClock\obj\Release\AnalogClock.dll

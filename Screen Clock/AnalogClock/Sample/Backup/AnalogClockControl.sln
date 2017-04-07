@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogClock", "AnalogClock\AnalogClock.csproj", "{A5C85240-F768-4C47-9D34-064AF442360C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogClockTest", "AnalogClockTest\AnalogClockTest.csproj", "{315DCF35-B1B2-4D94-A66F-624260D2F463}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A5C85240-F768-4C47-9D34-064AF442360C} = {A5C85240-F768-4C47-9D34-064AF442360C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A5C85240-F768-4C47-9D34-064AF442360C}.Debug.ActiveCfg = Release|.NET
+		{A5C85240-F768-4C47-9D34-064AF442360C}.Debug.Build.0 = Release|.NET
+		{A5C85240-F768-4C47-9D34-064AF442360C}.Release.ActiveCfg = Release|.NET
+		{A5C85240-F768-4C47-9D34-064AF442360C}.Release.Build.0 = Release|.NET
+		{315DCF35-B1B2-4D94-A66F-624260D2F463}.Debug.ActiveCfg = Debug|.NET
+		{315DCF35-B1B2-4D94-A66F-624260D2F463}.Debug.Build.0 = Debug|.NET
+		{315DCF35-B1B2-4D94-A66F-624260D2F463}.Release.ActiveCfg = Release|.NET
+		{315DCF35-B1B2-4D94-A66F-624260D2F463}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

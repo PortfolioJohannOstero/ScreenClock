@@ -1,0 +1,18 @@
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Forms.AdvancedForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Forms.AnalogLayoutForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Forms.ClockForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Forms.ClockForm_overlay.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Forms.HelpForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Forms.mainForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Forms.popupForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Forms.PresetSettingsForm.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen_Clock.Properties.Resources.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen Clock.csproj.GenerateResource.Cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Release\Screen Clock.exe.config
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Release\Screen Clock.exe
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Release\Screen Clock.pdb
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Release\AnalogClock.dll
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\bin\Release\AnalogClock.pdb
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen Clock.csprojResolveAssemblyReference.cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen Clock.exe
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\Screen Clock\Screen Clock\Screen Clock\obj\Release\Screen Clock.pdb
